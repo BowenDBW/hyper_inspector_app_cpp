@@ -691,7 +691,11 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# RGB camera driver
+/dalsa/
+
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/qt,cmake,c++,visualstudio,visualstudiocode,clion,macos,windows,linux
+
